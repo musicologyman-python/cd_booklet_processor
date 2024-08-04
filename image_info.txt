@@ -1,0 +1,23 @@
+./webern_lieder_01.jpg JPEG 1428x1408 1428x1408+0+0 8-bit sRGB 1.38304MiB 0.000u 0:00.000
+./webern_lieder_02.png PNG 2755x1319 2755x1319+0+0 8-bit Grayscale Gray 256c 1.84486MiB 0.000u 0:00.001
+./webern_lieder_03.png PNG 2768x1361 2768x1361+0+0 8-bit Grayscale Gray 256c 1.62116MiB 0.000u 0:00.000
+./webern_lieder_04.png PNG 2760x1347 2760x1347+0+0 8-bit Grayscale Gray 256c 1.13654MiB 0.010u 0:00.000
+./webern_lieder_05.png PNG 2836x1416 2836x1416+0+0 8-bit Grayscale Gray 256c 1.8783MiB 0.000u 0:00.000
+./webern_lieder_06.png PNG 2826x1385 2826x1385+0+0 8-bit Grayscale Gray 256c 1.00625MiB 0.000u 0:00.001
+./webern_lieder_07.png PNG 2776x1400 2776x1400+0+0 8-bit Grayscale Gray 256c 993981B 0.000u 0:00.000
+./webern_lieder_08.png PNG 2836x1416 2836x1416+0+0 8-bit Grayscale Gray 256c 1.03921MiB 0.000u 0:00.000
+./webern_lieder_09.png PNG 2762x1351 2762x1351+0+0 8-bit Grayscale Gray 256c 1.12012MiB 0.000u 0:00.000
+./webern_lieder_10.png PNG 2770x1395 2770x1395+0+0 8-bit Grayscale Gray 256c 962546B 0.000u 0:00.001
+./webern_lieder_11.png PNG 2820x1408 2820x1408+0+0 8-bit Grayscale Gray 256c 1.0451MiB 0.000u 0:00.000
+./webern_lieder_12.png PNG 2812x1416 2812x1416+0+0 8-bit Grayscale Gray 256c 1.00169MiB 0.000u 0:00.001
+./webern_lieder_13.png PNG 2844x1416 2844x1416+0+0 8-bit Grayscale Gray 256c 747605B 0.000u 0:00.000
+./webern_lieder_14.png PNG 2832x1412 2832x1412+0+0 8-bit Grayscale Gray 256c 946046B 0.000u 0:00.000
+./webern_lieder_15.png PNG 2820x1412 2820x1412+0+0 8-bit Grayscale Gray 256c 1.15672MiB 0.000u 0:00.000
+./webern_lieder_16.png PNG 2824x1420 2824x1420+0+0 8-bit Grayscale Gray 256c 1.11963MiB 0.000u 0:00.000
+./webern_lieder_17.png PNG 2828x1412 2828x1412+0+0 8-bit Grayscale Gray 256c 1.09359MiB 0.000u 0:00.000
+./webern_lieder_18.png PNG 2824x1420 2824x1420+0+0 8-bit Grayscale Gray 256c 820790B 0.000u 0:00.000
+./webern_lieder_19.png PNG 2828x1420 2828x1420+0+0 8-bit Grayscale Gray 256c 1.09516MiB 0.000u 0:00.000
+./webern_lieder_20.png PNG 2852x1412 2852x1412+0+0 8-bit Grayscale Gray 256c 1.17608MiB 0.000u 0:00.000
+./webern_lieder_21.png PNG 2820x1416 2820x1416+0+0 8-bit Grayscale Gray 256c 1.12717MiB 0.000u 0:00.000
+./webern_lieder_22.png PNG 2824x1420 2824x1420+0+0 8-bit Grayscale Gray 256c 836177B 0.000u 0:00.000
+./webern_lieder_23.jpg JPEG 1404x1424 1404x1424+0+0 8-bit sRGB 430034B 0.000u 0:00.000
